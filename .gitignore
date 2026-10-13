@@ -1,0 +1,5 @@
+# local game logs / temp / backup files - don't publish these
+*.log
+*.tmp
+*.bak
+*.allparts.bak
